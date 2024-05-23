@@ -6,8 +6,9 @@
 
 **Scope:**
 
-  Cats to Dogs Ratio: Calculated the ratio of cats per household to dogs per household, grouped by UK regions.
-  Correlation Analysis: Examined the relationship between pet populations (cats and dogs) and human populations using scatterplots and R-squared values.
+Cats to Dogs Ratio: Calculated the ratio of cats per household to dogs per household, grouped by UK regions.
+
+Correlation Analysis: Examined the relationship between pet populations (cats and dogs) and human populations using scatterplots and R-squared values.
 
 **Methodology:**
 
